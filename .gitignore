@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build directories and generated artifacts
+build/
+fat/
+sources.txt
+.gradle/
+*.jar
+!lib/*.jar
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
